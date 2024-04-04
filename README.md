@@ -1,2 +1,2 @@
 # React-Hooks
-React Hooks creating during UI.DEV Course
+React Hooks created as pratice during UI.DEV Course
